@@ -21,7 +21,7 @@
 }
 
 .author a{
-  color:  hsl(198, 83%, 45%);
+  color:  hsl(200, 83%, 45%);
   text-decoration: none;
   animation: color 1s ease-in-out infinite;
 }
