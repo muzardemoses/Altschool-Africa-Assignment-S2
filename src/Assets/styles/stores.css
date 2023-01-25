@@ -52,7 +52,7 @@ iframe {
 /* animation flip  for pricing-card*/
 
 .pricing-card:hover {
-	animation: flip 0.5s linear;
+	animation: flip 0.9s linear;
 	cursor: pointer;
 }
 

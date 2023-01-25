@@ -10,8 +10,8 @@ function App() {
 			<Routes>
 				<Route path="/" element={<Home />} />
 				<Route path="users" element={<Users />} />
-				<Route path="stores" element={<Stores />}>
-					<Route path="features" element={<Features />} />
+				<Route path="/stores" element={<Stores />}>
+					<Route index path="features" element={<Features />} />
 					<Route path="pricing" element={<Pricing />} />
 				</Route>
 				<Route path="*" element={<PageNotFound />} />

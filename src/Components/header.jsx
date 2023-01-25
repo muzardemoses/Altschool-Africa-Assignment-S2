@@ -24,7 +24,7 @@ const Header = () => {
 					Users
 				</Link>
 				<Link
-					to="/stores"
+					to="/stores/features"
 				>
 					Stores
 				</Link>

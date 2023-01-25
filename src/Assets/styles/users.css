@@ -27,7 +27,7 @@
     border-left:   5px solid rgba(75, 106, 90, 0.472);
     border-bottom:  5px solid rgba(36, 49, 42, 0.472);
     margin-bottom:  20px;
-    transition: 1s ease-in-out;
+    transition: 0.2s ease-in;
 }
 
 .user h2{
